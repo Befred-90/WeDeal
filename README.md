@@ -1,46 +1,46 @@
-# AletOkap
-À Cap-Haïtien, la sécurité reste encore meilleure qu’à Port-au-Prince, mais les citoyens manquent d’un outil fiable pour partager et recevoir des informations en temps réel sur les incidents autour d’eux. AlètOkap apporte une solution en permettant de signaler rapidement un incident avec localisation et photo/vidéo, d’alerter la communauté par notifications, et de visualiser les zones à risque sur une carte interactive, favorisant ainsi la vigilance et la prévention collective.
+# WeDeal
+WeDeal est une plate-forme créée et développée par 4 personnes :  Katerine Vital, Giordany Jean-Jacques, Fredo Laronde et Leroy Wood Joseph. WeDeal est bien plus qu'une simple place de marché : c'est l'écosystème commercial dynamique et universel conçu pour les entrepreneurs, les PME et les individus qui souhaitent échanger, vendre et acheter absolument tout ce qui est légal. Fini les limites des plateformes spécialisées. Sur WeDeal, la seule limite est votre imagination (et la loi) !
+Notre Mission est de créer un espace où chaque utilisateur peut maximiser ses opportunités d'affaires. Que vous soyez un professionnel cherchant à liquider un stock, un artisan promouvant ses créations, ou un particulier désirant échanger des biens, WeDeal est votre partenaire privilégié.
+
 
 # Membres du groupe
-- Esther Love Prisnie Desravines
-- Exantus Jn-Noel
-- Stella Bejhina Metellus
+- Katerine VITAL
+- Leroy Wood JOSEPH
+- Fredo LARONDE
+- Giordany JEAN-JACQUES
 
 # User Stories
 
 # Must have
 
 - [x] L'utilisateur peut créer un compte et se connecter afin d'accéder à l'application
-- [x] L’utilisateur peut signaler un incident de façon anonyme(vol, agression, cambriolage, etc.) en ajoutant la date et l'heure, une description courte, une photo/vidéo, et       la localisation.
-- [x] L’utilisateur peut recevoir une notification lorsqu’un incident survient.
-- [x] L’utilisateur peut visualiser les alertes sur une carte interactive, avec des codes couleur pour distinguer les types d'incidents.
-- [x] L’utilisateur peut consulter une liste des alertes récentes envoyées par d’autres membres de la communauté.
-- [x] L’utilisateur peut accéder à une page contenant les informations importantes (numéros de police, hôpital, ambulance, protection civile, etc.).
-- [x] L’utilisateur peut lire une section conseils de sécurité pour apprendre à réduire les risques.
-- [x] L’utilisateur peut lire une section decrivant l'application
-- [x] L'utilisateur peut se deconnecter de l'application
-- [ ] L'utilisateur peut supprimer son compte
+- [x] L’utilisateur peut visialiser les contenus de l'application sans de ne avoir un compte
+- [x] L’utilisateur peut poster des videos, des photos, des articles, 
+- [x] Chaque utilisateur est par défaut un Vendeur et un Acheteur. Gérez vos transactions et vos annonces depuis un tableau de bord unique et intuitif.
+- [x] ⁠Compte Sécurisé : Créez facilement votre compte pour accéder à l'ensemble des fonctionnalités et sécuriser vos échanges.
+- [x] Annonces Simplifiées : Postez vos produits, services, ou même vos propositions d'échange en quelques clics. Notre interface optimisée assure une visibilité maximale de vos offres.
+- [x] Catégories Universelles : De l'immobilier aux services  numériques, en passant par les biens de consommation et les équipements professionnels, WeDeal couvre toutes les sphères du commerce légal.
+- [x] Sessions Live Intégrées : Faites la promotion de vos produits en temps réel grâce à notre fonctionnalité de Live Shopping intégrée.
+- [x] Interaction Directe : Interagissez instantanément avec les acheteurs potentiels, répondez aux questions en direct et concluez des affaires sous les yeux de votre audience. C'est l'outil parfait pour créer un engagement fort et convertir rapidement.
+- [x] ⁠Messagerie Instantanée : Communiquez directement et en toute sécurité avec les autres membres (vendeurs ou acheteurs) pour négocier, clarifier les détails et finaliser les accords.
+- [x] Évaluation et Confiance : Notre système d'évaluation rigoureux (notes et commentaires) garantit la transparence et encourage les transactions fiables au sein de la communauté.
 
 # Maybe
-
-- [x] L’utilisateur peut confirmer une alerte signalée par un autre citoyen.
-- [ ] L’utilisateur peut modifier ou supprimer ses propres alertes.
-- [ ] L’utilisateur peut filtrer les alertes par type d’incident.
-- [x] L’utilisateur peut avoir un profil personnel.
+- [x] L’utilisateur peut modifier ou supprimer son compte
+- [x] L’utilisateur peut recuperer son compte en cas d'oublie de mot de pass
+- [x] L’utilisateur peut avoir un profil personnel
 - [x] L’utilisateur peut modifier son profil personnel(Photo, Username, Email, Password)
-- [ ] L'utilisateur peut voir l’historique de ses alertes envoyées.
+- [x] L'utilisateur peut inviter des amis (es) sur WeDeal.
 
 # Would be nice to have
-- [ ] L'utilisateur peut changer la langue(Creole --> Francais; Francais --> Creole).
-- [ ] L'utilisateur peut changer le thème de l'appli(Light/Dark).
-- [ ] L’utilisateur peut partager une alerte directement via WhatsApp, Facebook.
-- [ ] L'utilisateur peut planifier un itinéraire sur la carte pour suivre le chemin le plus sécurisé.
-- [ ] L'utilisateur peut avoir une liste de contact d'urgence.
-- [ ] L'utilisateur peut activer un bouton SOS qui envoie une alerte instantanée avec sa localisation a ses contacts d'urgence.
-- [ ] L’application peut générer des statistiques de sécurité (par ex. nombre d’incidents signalés par semaine).
+- [x] L'utilisateur peut changer la langue(Creole --> Francais; Francais --> Creole).
+- [x] L'utilisateur peut changer le thème de l'appli(Light/Dark).
+- [x] L’utilisateur peut partager directement via WhatsApp, Facebook etc.
+- [x] L'utilisateur peut avoir une liste de contact client et.
 
 # Prototype Figma
-https://www.figma.com/design/QPrcrus2kpvCrumnoq4kh2/Projet-Final?node-id=0-1&t=64gCLyzVxTfbTBFe-1
+https://www.figma.com/design/4QBAEwmFIgIzvKarzEIzQy/Untitled?node-id=10-860&t=Xu3s5vpKiRMGur5f-0
 
 <img src="Android Compact - 8.png" width=200>  <img src="Sign up.png" width=200>  <img src="Home.png" width=200>  <img src="New Alert.png" width=200>  <img src="Map.png" width=200>  <img src="Liste Alerte.png" width=200>  <img src="Manifestation.png" width=200>  <img src="menu.png" width=200>  <img src="Profile.png" width=200>
+
 <img src="menu sombre.png" width=200>
