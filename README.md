@@ -41,7 +41,8 @@ Notre Mission est de créer un espace où chaque utilisateur peut maximiser ses 
 # Prototype Figma
 https://www.figma.com/design/4QBAEwmFIgIzvKarzEIzQy/Untitled?node-id=10-860&t=Xu3s5vpKiRMGur5f-0
 
-<img src="https://github.com/Befred-90/WeDeal/blob/main/Acceuil%20(1).png" width=200>  <img src="Sign up.png" width=200>  <img src="Home.png" width=200>  <img src="New Alert.png" width=200>  <img src="Map.png" width=200>  <img src="Liste Alerte.png" width=200>  <img src="Manifestation.png" width=200>  <img src="menu.png" width=200>  <img src="Profile.png" width=200>
+<img src="https://github.com/Befred-90/WeDeal/blob/main/Pagge%20APP.png" width=200> <img src="https://github.com/Befred-90/WeDeal/blob/main/Acceuil%20(1).png" width=200> <img src="Home.png" width=200>  <img src="New Alert.png" width=200>  <img src="Map.png" width=200>  <img src="Liste Alerte.png" width=200>  <img src="Manifestation.png" width=200>  <img src="menu.png" width=200>  <img src="Profile.png" width=200>
 
 <img src="menu sombre.png" width=200>
+
 
