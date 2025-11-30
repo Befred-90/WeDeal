@@ -41,14 +41,12 @@ Notre Mission est de créer un espace où chaque utilisateur peut maximiser ses 
 # Prototype Figma
 https://www.figma.com/design/4QBAEwmFIgIzvKarzEIzQy/Untitled?node-id=10-860&t=Xu3s5vpKiRMGur5f-0
 
-<img src="https://github.com/Befred-90/WeDeal/blob/main/Pagge%20APP.png" width=200> <img src="https://github.com/Befred-90/WeDeal/blob/main/Logo-%205.png" width=200> <img src="https://github.com/Befred-90/WeDeal/blob/main/Acceuil%20(1).png" width=200> <img src="https://github.com/Befred-90/WeDeal/blob/main/Pade%20de%20creation%20de%20compte%20et%20de%20connection.png" width=200> 
-
-<img src="https://github.com/Befred-90/WeDeal/blob/main/Cr%C3%A9ation%20de%20compte.png" width=200> 
-<img src="Liste Alerte.png" width=200>
+<img src="https://github.com/Befred-90/WeDeal/blob/main/Pagge%20APP.png" width=200> <img src="https://github.com/Befred-90/WeDeal/blob/main/Logo-%205.png" width=200> <img src="https://github.com/Befred-90/WeDeal/blob/main/Acceuil%20(1).png" width=200> <img src="https://github.com/Befred-90/WeDeal/blob/main/Pade%20de%20creation%20de%20compte%20et%20de%20connection.png" width=200> <img src="https://github.com/Befred-90/WeDeal/blob/main/Cr%C3%A9ation%20de%20compte.png" width=200> <img src="https://github.com/Befred-90/WeDeal/blob/main/Cat%C3%A9gorie.png" width=200>
 <img src="Manifestation.png" width=200> 
 <img src="menu.png" width=200> 
 <img src="Profile.png" width=200>
 <img src="menu sombre.png" width=200>
+
 
 
 
